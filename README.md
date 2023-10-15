@@ -11,8 +11,3 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-# NFT-collection-with-a-whitelist-using-Hardhat-and-Solidity
-# NFT-collection-with-a-whitelist-using-Hardhat-and-Solidity
-# NFT-collection-with-a-whitelist-using-Hardhat-and-Solidity
-# NFT-collection-with-a-whitelist-using-Hardhat-and-Solidity
-# NFT-collection-with-a-whitelist-using-Hardhat-and-Solidity
